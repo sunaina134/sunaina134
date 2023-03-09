@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sunaina</h1>
+<h1 align="center">Hi 👋, I'm Sunaina arora</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunaina134&label=Profile%20views&color=0e75b6&style=flat" alt="sunaina134" /> </p>
